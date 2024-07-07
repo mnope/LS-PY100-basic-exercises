@@ -1,0 +1,1 @@
+# you would use the in operator to check if a substring is in a string

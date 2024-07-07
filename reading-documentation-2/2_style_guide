@@ -1,0 +1,7 @@
+iceCreamDensity=10          # variables in lower snake case; should be spaces around '='
+
+while iceCreamDensity>0 :   # should be spaces around '>'; no space before colon
+    print('Drip...')
+    iceCreamDensity-=1      # should be spaces around '-='
+
+print('The ice cream melted.')
