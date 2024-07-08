@@ -12,6 +12,8 @@ for l in vocabulary:
     for word in l:
         print(word)
 
+        
+
 # happy
 # cheerful
 # merry
